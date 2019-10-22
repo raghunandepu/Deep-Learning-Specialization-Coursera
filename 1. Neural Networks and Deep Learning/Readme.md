@@ -1,4 +1,4 @@
-## Objectives:
+### Objectives:
 - Be able to explain the major trends driving the rise of deep learning, and understand where and how it is applied today.
 - Learn to set up a machine learning problem with a neural network mindset. Learn to use vectorization to speed up your models.
 - Learn to build a neural network with one hidden layer, using forward propagation and backpropagation.
@@ -15,4 +15,4 @@
 - Building your Deep Neural Network - Step by Step v5.ipynb
 - Deep Neural Network - Application v3.ipynb
 
-Every image required to view correctly in the Jupyter Notebooks are stored in `images` folder.
+Every image required to view correctly the Jupyter Notebooks are stored in `images` folder.
