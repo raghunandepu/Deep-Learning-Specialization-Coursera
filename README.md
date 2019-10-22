@@ -1,6 +1,6 @@
 # Deep Learning Specialization on Coursera
 
-**Master Deep Learning, and Break into AI**
+**Master Deep Learning and Break into AI**
 
 Instructor: [Andrew Ng](http://www.andrewng.org/)
 
@@ -21,7 +21,7 @@ This repo contains all my work for this specialization. All the code base and im
   + Understand the key parameters in a neural network's architecture.
 
   Code:
-  + [Week 2 - Phyton Basics with Numpy](https://github.com/raghunandepu/Deep-Learning-Specialization-Coursera/blob/master/1.%20Neural%20Networks%20and%20Deep%20Learning/Python%2BBasics%2BWith%2BNumpy%2Bv3.ipynb)
+  + [Week 2 - Python Basics with Numpy](https://github.com/raghunandepu/Deep-Learning-Specialization-Coursera/blob/master/1.%20Neural%20Networks%20and%20Deep%20Learning/Python%2BBasics%2BWith%2BNumpy%2Bv3.ipynb)
   + [Week 2 - Logistic Regression with a Neural Network mindset](https://github.com/raghunandepu/Deep-Learning-Specialization-Coursera/blob/master/1.%20Neural%20Networks%20and%20Deep%20Learning/Logistic%2BRegression%2Bwith%2Ba%2BNeural%2BNetwork%2Bmindset%2Bv5.ipynb)
   + [Week 3 - Planar data classification with a hidden layer](https://github.com/raghunandepu/Deep-Learning-Specialization-Coursera/blob/master/1.%20Neural%20Networks%20and%20Deep%20Learning/Planar%20data%20classification%20with%20one%20hidden%20layer/Planar_data_classification_with_onehidden_layer_v6c.ipynb)
   + [Week 4 - Building your Deep Neural Network: Step by Step](https://github.com/raghunandepu/Deep-Learning-Specialization-Coursera/blob/master/1.%20Neural%20Networks%20and%20Deep%20Learning/Building%20your%20Deep%20Neural%20Network%20-%20Step%20by%20Step/Building_your_Deep_Neural_Network_Step_by_Step_v8a.ipynb)
@@ -79,7 +79,7 @@ This repo contains all my work for this specialization. All the code base and im
 
   Code:
   + [Week 1 - Building a Recurrent Neural Network - Step by Step - v3](https://github.com/raghunandepu/Deep-Learning-Specialization-Coursera/blob/master/4.%20Sequence%20Models/Building%20a%20Recurrent%20Neural%20Network%20-%20Step%20by%20Step/Building%2Ba%2BRecurrent%2BNeural%2BNetwork%2B-%2BStep%2Bby%2BStep%2B-%2Bv3.ipynb)
-  + [Week 1 - Dinosaur Island - Character-Level Language Modeling](https://github.com/raghunandepu/Deep-Learning-Specialization-Coursera/blob/master/4.%20Sequence%20Models/Dinosaur%20Island%20--%20Character-level%20language%20model/Dinosaurus%2BIsland%2B--%2BCharacter%2Blevel%2Blanguage%2Bmodel%2Bfinal%2B-%2Bv3.ipynb)
+  + [Week 1 - Dinosaur Island - Character-Level Language Modelling](https://github.com/raghunandepu/Deep-Learning-Specialization-Coursera/blob/master/4.%20Sequence%20Models/Dinosaur%20Island%20--%20Character-level%20language%20model/Dinosaurus%2BIsland%2B--%2BCharacter%2Blevel%2Blanguage%2Bmodel%2Bfinal%2B-%2Bv3.ipynb)
   + [Week 1 - Improvise a Jazz Solo with an LSTM Network](https://github.com/raghunandepu/Deep-Learning-Specialization-Coursera/blob/master/4.%20Sequence%20Models/Jazz%20improvisation%20with%20LSTM/Improvise%2Ba%2BJazz%2BSolo%2Bwith%2Ban%2BLSTM%2BNetwork%2B-%2Bv3.ipynb)
   + [Week 2 - Operations on word vectors - v2](https://github.com/raghunandepu/Deep-Learning-Specialization-Coursera/blob/master/4.%20Sequence%20Models/Word%20Vector%20Representation/Operations%2Bon%2Bword%2Bvectors%2B-%2Bv2.ipynb)
   + [Week 2 - Emojify - v2](https://github.com/raghunandepu/Deep-Learning-Specialization-Coursera/blob/master/4.%20Sequence%20Models/Emojify/Emojify%2B-%2Bv2.ipynb)
