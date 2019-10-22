@@ -11,13 +11,13 @@
   - Know the benefits of learning rate decay and apply it to your optimization
   - Master the process of hyperparameter tuning
 
-## Week 1:
+## Week 5:
  - Initialization.ipynb
  - Regularization.ipynb
  - Gradient Checking v1.ipynb
 
- ## Week 2:
+ ## Week 6:
   - Optimization methods.ipynb
 
- ## Week 3:
+ ## Week 7:
   - Tensorflow Tutorial.ipynb
